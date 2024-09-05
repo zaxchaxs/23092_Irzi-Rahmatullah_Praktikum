@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Latihan1;
+package Pertemuan1;
 
 /**
  *
@@ -13,7 +13,7 @@ public class Mahasiswa {
     String _name1, _name2;
 
     void membaca() {
-        System.out.println(_name1 + " Membaca buku");
+        System.out.println(_name1 + "Membaca buku");
     };
 
     void mencontek() {
